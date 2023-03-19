@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vedika Patidar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
+![Uploading 67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800.gif…]()
+
 - 🔭 I’m currently working on [https://yflix.netlify.app/](https://yflix.netlify.app/)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
