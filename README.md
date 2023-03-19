@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedika Patidar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-![Uploading 67cb1a46-1d0c-45fe-ab3f-520e4802b1b8_rwc_0x7x800x626x800.gif…]()
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966](https://user-images.githubusercontent.com/126901065/226181218-e59523eb-1a72-4682-8c48-cb44a926bbdb.gif)
 
 - 🔭 I’m currently working on [https://yflix.netlify.app/](https://yflix.netlify.app/)
 
