@@ -1,4 +1,5 @@
-![code-coding](https://user-images.githubusercontent.com/126901065/226181392-584d2afe-01c4-4605-a17e-bdb50f9c593e.gif)
+![chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576](https://user-images.githubusercontent.com/126901065/226181515-d5abe7e1-e600-4ab7-a485-f11bea8be1a5.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Vedika Patidar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
