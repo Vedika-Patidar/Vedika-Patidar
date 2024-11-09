@@ -2,10 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Vedika Patidar</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
-- 🔭 I’m currently working on [https://yflix.netlify.app/](https://yflix.netlify.app/)
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+<h3 align="center">A passionate web developer from India</h3>
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Bootstrap, CSS and Javascript**
 
