@@ -3,12 +3,15 @@
 
 <h1 align="center">Hi 👋, I'm Vedika Patidar</h1>
 <h3 align="center">A passionate web developer</h3>
-- 🚀 Passionate Full-Stack Developer with a strong foundation in the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- 💡 Skilled in building responsive and user-friendly web applications using JavaScript and Tailwind CSS.
-- 🌱 Currently exploring cloud computing, advanced React patterns, and DevOps tools.
-- 📊 Enthusiastic about solving real-world problems, optimizing performance, and writing clean, maintainable code.
+🚀 Passionate Full-Stack Developer with a strong foundation in the MERN stack (MongoDB, Express.js, React.js, Node.js).  
 
-- 📫 How to reach me **vedika10patidar@gmail.com**
+💡 Skilled in building responsive and user-friendly web applications using JavaScript and Tailwind CSS.  
+
+🌱 Currently exploring cloud computing, advanced React patterns, and DevOps tools.  
+
+📊 Enthusiastic about solving real-world problems, optimizing performance, and writing clean, maintainable code.  
+
+📫 How to reach me: **vedika10patidar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
