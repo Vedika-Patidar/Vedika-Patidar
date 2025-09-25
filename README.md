@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" width="40" height="40"/>
   </a>&nbsp;&nbsp;
   
-  <a href="https://github.com/VedikaPatidar" target="_blank" style="text-decoration:none;">
+  <a href="https://github.com/Vedika-Patidar/" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/fluency/48/github.png" alt="github" width="40" height="40"/>
   </a>
 </p>
